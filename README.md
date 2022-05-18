@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ana 
+- 👀 I’m interested in cibersegurity and computer programming 
+- 🌱 I’m currently learning UX, UI Programming languages.
